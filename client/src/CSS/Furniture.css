@@ -1,0 +1,50 @@
+.headerManager{
+    direction: ltr;
+    display: flex;
+    justify-content: space-between !important;
+}
+
+.headerCustomer{
+    direction: ltr;
+    display: flex;
+    justify-content: space-between !important;
+}
+
+.dialogInput{
+    display: flex;
+    justify-content: center;
+}
+
+
+.inputPrice{
+    margin: 2px;
+    width: 80px;
+    height: 43px;
+}
+
+.inputSearch{
+    height: 43px;
+    width: 230px;
+    margin-right: 5px;
+}
+
+.p-button.p-button-icon-only.p-button-rounded{
+    margin: 8px;
+}
+
+.gridImg {
+    height: 300px;
+}
+
+.gridDescription {
+    height: 50px;
+    font-weight: 600;
+    font-size: x-large;
+    color: black;
+}
+
+@media screen and (min-width: 1200px) {
+    .xl\:col-4 {
+        width: 25% !important;
+    }
+}

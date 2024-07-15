@@ -1,0 +1,16 @@
+.p-inputnumber-buttons-stacked .p-inputnumber-input{
+    width: 70px;
+}
+
+#quantityDiv{
+    position: absolute;
+    left: 250px;
+}
+
+.message{
+    text-align: center;
+}
+
+.redMessage{
+    color: red;
+}

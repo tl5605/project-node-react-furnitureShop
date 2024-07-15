@@ -1,0 +1,32 @@
+.dataTableDiv{
+    direction: ltr;
+}
+
+.p-datatable .p-datatable-tbody > tr > td{
+    text-align: center;
+}
+
+.p-datatable .p-column-header-content{
+    direction: rtl;
+}
+
+.imgOrder {
+    width: 150px;
+}
+
+.p-3 {
+    margin-right: 8%;
+    margin-left: 8%;
+}
+
+.dropdown{
+    width: 130px;
+}
+
+.p-datatable .p-column-header-content{
+    color: black;
+}
+
+.p-datatable .p-sortable-column.p-highlight .p-sortable-column-icon{
+    color: black;
+}
